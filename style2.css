@@ -1,0 +1,75 @@
+h1 {text-align:center; text-transform:capitalize;  }
+h2 {color:green; font-family:"candara"; text-align:justify; }
+p { word-spacing:2px; text-align:justify; font-size:15px; text-indent:30px; }
+a { color:#000000; }
+img {width:240; height:200;}
+body
+{
+	background-image:url(file:///D|/AAT%20Data/Web%20Development/WD%20Quiz%202/Quiz%202%20Performed%20Task/images/computer_0008.jpg);
+	background-size:100%;
+	
+
+}
+
+.site{
+	width:800px;
+	background-color:#CCC;
+	margin:auto;
+}
+.header{
+	background-color:#CCC;
+	padding:15px;
+}
+.topmenu{
+	background:#FFF;
+	text-align:center;
+	padding:10px;
+	
+}
+.topmenu a{
+	text-decoration:none;
+	margin-left:10px;
+	margin-right:10px;
+}
+.topmenu a:hover{
+	border-top:3px solid #000;
+	padding-top:10px;
+	padding-bottom:12px;
+	border-bottom:3px solid #000;
+}
+.navbar{
+	
+	width:160px;
+	float:left;
+	padding:20px;
+}
+.navbar a{
+	text-decoration:none;
+	line-height:40px;
+		
+	
+}
+.navbar a:hover{
+	background-color:#000;
+	color:#FFF;
+	padding:10px;	
+	
+}
+.content
+{
+	background-color:#999;
+	width:550px;
+	float:left;
+	padding:25px;
+}
+.footer{
+	background:#000;
+	color:#FFF;
+	padding:20px;
+	text-align:center;
+	clear:both;
+	
+}
+	
+
+	
